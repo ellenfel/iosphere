@@ -1,1 +1,0 @@
-(self.webpackChunkthingsboard=self.webpackChunkthingsboard||[]).push([[8387],{88387:(n,p,e)=>{n=e.nmd(n),ace.require(["ace/snippets/json"],function(s){n&&(n.exports=s)})}}]);
